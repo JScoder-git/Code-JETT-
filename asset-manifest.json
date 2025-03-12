@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realtime-editor/static/css/main.8e90d3a0.css",
+    "main.js": "/realtime-editor/static/js/main.a9e06b5a.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/realtime-editor/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/realtime-editor/index.html",
+    "main.8e90d3a0.css.map": "/realtime-editor/static/css/main.8e90d3a0.css.map",
+    "main.a9e06b5a.js.map": "/realtime-editor/static/js/main.a9e06b5a.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/realtime-editor/static/js/787.4a5f9ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e90d3a0.css",
+    "static/js/main.a9e06b5a.js"
+  ]
+}
